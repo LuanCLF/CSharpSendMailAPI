@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SendMailAPI",
+    "\\SendMailAPI\\Controllers"
+  ],
+  "SelectedNode": "\\SendMailAPI\\Controllers\\EmailController.cs",
+  "PreviewInSolutionExplorer": false
+}
